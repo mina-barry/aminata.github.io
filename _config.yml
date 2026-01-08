@@ -23,7 +23,7 @@ email: aminatabarry630@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 url: "https://mina-barry.github.io"
-baseurl: ""
+baseurl: "/aminata.github.io"
 #twitter_username: jekyllrb
 github_username:  mina-barry
 
