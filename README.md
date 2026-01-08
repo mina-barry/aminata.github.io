@@ -1,2 +1,2 @@
 # aminata.github.io
-https://bookish-adventure-1e2epml.pages.github.io/
+https://mina-barry.github.io/aminata.github.io/
