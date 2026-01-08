@@ -1,0 +1,56 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #2c3e50;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #34495e;
+  margin-top: 25px;
+  border-left: 4px solid #3498db;
+  padding-left: 15px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+a {
+  color: #3498db;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #2980b9;
+}
+
+.post-content {
+  line-height: 1.8;
+}
+
+/* Style pour les listes */
+ul, ol {
+  margin: 20px 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+/* Style pour les citations */
+blockquote {
+  border-left: 4px solid #3498db;
+  padding-left: 20px;
+  font-style: italic;
+  color: #555;
+}
+
+/*# sourceMappingURL=style.css.map */
