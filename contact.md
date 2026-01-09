@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 
 <form action="https://formspree.io/f/abcdwxyz" method="POST">
   <input type="text" name="nom" placeholder="Votre prenom" required>

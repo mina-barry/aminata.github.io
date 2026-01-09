@@ -3,7 +3,6 @@ layout:   page
 title: À propos
 permalink: /apropos/
 ---
-
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 
 
@@ -19,19 +18,20 @@ Motivée et curieuse, je souhaite progresser pas à pas et construire un portfol
 qui reflète mon évolution.
 ---
 
-### Vandeuse polyvalente
+### Vendeuse polyvalente
 - Accueil et conseil client
 - Mise en rayon
 - Gestion de caisse
 - Travail en équipe
 - Organisation et polyvalence
 
-
+### 
 
 ### Diplome 
 - Bac 2023
 - Brevé 2019
- 
+- Btech 24/03/2025 au 05/05/2025 
+- Simplons 24/02/2025 au 20/03/2025
 
 ### Objectifs
 

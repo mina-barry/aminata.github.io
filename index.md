@@ -6,9 +6,16 @@ layout:  page
 title: 
 permalink: /
 ---
+<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+
+<div class="hero">
+
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="/image/profil.png" alt="Aminata barry" style="width: 250px; height: 250px; border-radius: 50%; border: 1px solid black ; object-fit: cover;">
 </div>
+</div>
+
+
 # Mon Portfolio
 
 je suis Aminata Barry

@@ -1,58 +1,82 @@
 ---
 ---
 
-
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+  font-family: Arial, sans-serif;
+  background-image: url("/image/arrier-plan.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  
+  .site-footer {
+    background-color: #333333; 
+    color: #FFFFFF; 
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .site-header {
+    background-color: bisque; 
+    color: #FFFFFF; 
+    padding: 20px 0;
+    text-align: center;
+  }
+  #vendeuse-polyvalente{
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
+  }
+//   ul li {
+// padding: 20px;
+//   margin: 20px 0;
+//   border-radius: 8px;
+//   box-shadow: 0 2px 4px #0056b3;
+//   }
 
-h1 {
-  color: #2c3e50;
-  border-bottom: 3px solid #3498db;
-  padding-bottom: 10px;
-  margin-top: 30px;
-}
+#diplome{
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
+  }
+#objectifs{
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
+  }
+  #qui-suis-je{
+ height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
 
-h2 {
-  color: #34495e;
-  margin-top: 25px;
-  border-left: 4px solid #3498db;
-  padding-left: 15px;
-}
-
-img {
-  max-width: 100%;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  margin: 20px 0;
-}
-
-a {
-  color: #3498db;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #2980b9;
-}
-
-.post-content {
-  line-height: 1.8;
-}
-
-/* Style pour les listes */
-ul, ol {
-  margin: 20px 0;
-}
-
-li {
-  margin: 10px 0;
-}
-
-/* Style pour les citations */
-blockquote {
-  border-left: 4px solid #3498db;
-  padding-left: 20px;
-  font-style: italic;
-  color: #555;
-}
+  }
+  #technologies-utilisées{
+     height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
+  }
+  #compétences-développées{
+      height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
+  }
+ }
+ form{
+    height: auto;
+    border-radius: 10px;
+    background-color:#333333;
+    box-shadow: 2px 4px 0 #fff3e0;
+    text-align: center;
+ }
