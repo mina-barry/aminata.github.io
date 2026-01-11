@@ -17,10 +17,13 @@ permalink: /
 
 
 # Bienvenu sur mon portfolio
+Je suis Aminata Barry.
 
-je suis Aminata Barry
-
-Étudiante à **Epitech** depuis cette année, je suis en formation en **développement web**.  
-Je m’intéresse particulièrement à la création de sites et d’applications web,  
+Étudiante à **Epitech** depuis cette année, je suis en formation en **développement web**.
+Je m’intéresse particulièrement à la création de sites et d’applications web
 et je cherche à développer mes compétences à travers des projets concrets.
+
+
+
+
 

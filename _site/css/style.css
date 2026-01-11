@@ -31,51 +31,16 @@ body .site-header {
   z-index: 100;
   border: 0;
 }
-body #vendeuse-polyvalente {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
-body {
-  box-shadow: 0 20px 4px #0056b3;
-}
-body #diplome {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
-body #objectifs {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
-body #qui-suis-je {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
-body #technologies-utilisées {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
-body #compétences-développées {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
-body #mes-centres-dintérêts {
-  height: auto;
-  border-radius: 10px;
-  background-color: #bbdefb;
-  text-align: center;
-}
+body #diplome,
+body #objectifs,
+body #qui-suis-je,
+body #technologies-utilisées,
+body #compétences-développées,
+body #mes-centres-dintérêts,
+body #vendeuse-polyvalente,
+body #compétences-techniques,
+body #langues,
+body #formation,
 body #langues {
   height: auto;
   border-radius: 10px;

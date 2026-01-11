@@ -37,70 +37,16 @@ body {
     border: 0;
   }
 
-  #vendeuse-polyvalente {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-  }
-
-  //   ul li {
-  // padding: 20px;
-  //   margin: 20px 0;
-  //   border-radius: 8px;
-  box-shadow: 0 20px 4px #0056b3;
-  //   }
-
-  #diplome {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-  }
-
-  #objectifs {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-  }
-
-  #qui-suis-je {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-
-  }
-
-  #technologies-utilisées {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-  }
-
-  #compétences-développées {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-  }
-
-  #mes-centres-dintérêts {
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    // box-shadow: 20px 4px 0 #fff3e0;
-    text-align: center;
-  }
-
+  #diplome,
+  #objectifs,
+  #qui-suis-je,
+  #technologies-utilisées,
+  #compétences-développées,
+  #mes-centres-dintérêts,
+  #vendeuse-polyvalente,
+  #compétences-techniques,
+  #langues,
+  #formation,
   #langues {
     height: auto;
     border-radius: 10px;

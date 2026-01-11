@@ -10,19 +10,16 @@ permalink: /apropos/
 Je m’appelle **Aminata Barry** et je suis étudiante à **Epitech** depuis cette année,
 en formation en **développement web**.
 
-Je découvre actuellement les bases du développement web, notamment le HTML, le CSS,le javascript,le php,
-et les principes de programmation. À travers ma formation, je cherche à améliorer
+Je découvre actuellement les bases du développement web, notamment le HTML, le CSS, le JavaScript et le PHP,
+ainsi que les principes de programmation. À travers ma formation, je cherche à améliorer
 mes compétences et à gagner de l’expérience grâce à des projets pratiques.
 Motivée et curieuse, je souhaite progresser pas à pas et construire un portfolio
 qui reflète mon évolution.
----
 
-### Vendeuse polyvalente
-- Accueil et conseil client
-- Mise en rayon
-- Gestion de caisse
-- Travail en équipe
-- Organisation et polyvalence
+
+# Formation
+Epitech École de l’innovation et de l’expertise informatique Formation 
+en développement web Depuis 2025
 
 
 ### Diplome 
@@ -32,13 +29,34 @@ qui reflète mon évolution.
  Lycée Billy Conakry
 - 2020 BEPC
 
+### Vendeuse polyvalente
+- Accueil et conseil client
+- Mise en rayon
+- Gestion de caisse
+- Travail en équipe
+- Organisation et polyvalence
+
 
 ### Objectifs
 
-- Développer mes compétences en développement web  
-- Réaliser des projets concrets  
-- Continuer à apprendre et progresser  
+- Développer mes compétences en développement web
+- Réaliser des projets concrets
+- Continuer à apprendre et à progresser 
 
+
+### Langues
+- Français
+- anglais A1
+
+## Compétences techniques
+- Développement web (bases)
+- Création de sites web
+- HTML / CSS
+
+- JavaScript (notions)
+- Travail en équipe
+
+- Apprentissage rapide de nouvelles technologies
 
 ### Mes centres d'intérêts
 - J'aime  faire de la cuisine 
@@ -46,6 +64,3 @@ qui reflète mon évolution.
 - Lecture et me documenter sur internet 
 - serie/film
 
-### Langues
-- Français
-- anglais A1
