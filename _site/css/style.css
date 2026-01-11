@@ -86,6 +86,7 @@ body ul li {
   color: black;
   list-style-type: square;
   font-size: 20px;
+  min-width: fit-content !important;
 }
 body p {
   color: black;
@@ -111,6 +112,7 @@ body .footer-col-wrapper .footer-col-2 ul,
 body .footer-col-wrapper .footer-col-3 ul {
   list-style-type: none;
   color: #FFFFFF !important;
+  min-width: max-content;
 }
 body .formulaire {
   max-width: 500px;
