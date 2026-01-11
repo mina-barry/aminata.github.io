@@ -5,24 +5,34 @@ permalink: /contact/
 ---
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 
-<form action="https://formspree.io/f/abcdwxyz" method="POST">
-  <input type="text" name="nom" placeholder="Votre prenom" required>
-  <br><br>
+<div class="formulaire">
+    <form action="https://formspree.io/f/abcdwxyz" method="POST">
+      
+      <div class="champ">
+        <input type="text" name="nom" class="input" placeholder=" " required>
+        <label class="label">Nom</label>
+      </div>
 
-  <input type="text" name="prenom" placeholder="Votre prenom" required>
-  <br><br>
+      <div class="champ">
+        <input type="text" name="prenom" class="input" placeholder=" " required>
+        <label class="label">Prénom</label>
+      </div>
 
-  <input type="email" name="email" placeholder="Votre email" required>
-  <br><br>
+      <div class="champ">
+        <input type="email" name="email" class="input" placeholder=" " required>
+        <label class="label">Email</label>
+      </div>
 
-  <textarea name="message" placeholder="Votre message" required></textarea>
-  <br><br>
+      <div class="champ">
+        <textarea name="message" class="input" placeholder=" " required></textarea>
+        <label class="label">Message</label>
+      </div>
 
-  <button type="submit">Envoyer</button>
-</form>
+      <button type="submit" class="bouton">Envoyer</button>
+      
+    </form>
+  </div>
 
-
----
 
 #### si vous avez des questions vous pouvez me contacter via:
 
@@ -32,5 +42,5 @@ permalink: /contact/
 -  [Mon github](https://github.com/mina-barry)
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/)
+-  [LinkedIn](https://www.linkedin.com/in/)
 

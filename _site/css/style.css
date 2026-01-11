@@ -1,73 +1,172 @@
 @charset "UTF-8";
 body {
   font-family: Arial, sans-serif;
-  background-image: url("/image/arrier-plan.png");
+  background-image: url("https://cdn.svgator.com/images/2022/06/background-svg-image-pattern.svg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: black;
 }
+body .page-content {
+  margin-top: 5rem;
+}
 body .site-footer {
-  background-color: #333333;
+  background-color: #5B3256;
   color: #FFFFFF;
   padding: 20px 0;
   text-align: center;
 }
+body .site-title,
+body .site-title:visited,
+body .site-nav .page-link {
+  color: white;
+}
 body .site-header {
-  background-color: bisque;
+  position: fixed;
+  width: 100%;
+  background-color: #5B3256;
   color: #FFFFFF;
-  padding: 20px 0;
+  padding: 10px 0;
   text-align: center;
+  z-index: 100;
+  border: 0;
 }
 body #vendeuse-polyvalente {
   height: auto;
   border-radius: 10px;
   background-color: #bbdefb;
-  box-shadow: 2px 4px 0 #fff3e0;
   text-align: center;
+}
+body {
+  box-shadow: 0 20px 4px #0056b3;
 }
 body #diplome {
   height: auto;
   border-radius: 10px;
   background-color: #bbdefb;
-  box-shadow: 2px 4px 0 #fff3e0;
   text-align: center;
 }
 body #objectifs {
   height: auto;
   border-radius: 10px;
   background-color: #bbdefb;
-  box-shadow: 2px 4px 0 #fff3e0;
   text-align: center;
 }
 body #qui-suis-je {
   height: auto;
   border-radius: 10px;
   background-color: #bbdefb;
-  box-shadow: 2px 4px 0 #fff3e0;
   text-align: center;
 }
 body #technologies-utilisées {
   height: auto;
   border-radius: 10px;
   background-color: #bbdefb;
-  box-shadow: 2px 4px 0 #fff3e0;
   text-align: center;
 }
 body #compétences-développées {
   height: auto;
   border-radius: 10px;
   background-color: #bbdefb;
-  box-shadow: 2px 4px 0 #fff3e0;
   text-align: center;
 }
-
-form {
+body #mes-centres-dintérêts {
   height: auto;
   border-radius: 10px;
-  background-color: #333333;
-  box-shadow: 2px 4px 0 #fff3e0;
+  background-color: #bbdefb;
   text-align: center;
+}
+body #langues {
+  height: auto;
+  border-radius: 10px;
+  background-color: #bbdefb;
+  text-align: center;
+}
+body ul li {
+  color: black;
+  list-style-type: square;
+  font-size: 20px;
+}
+body p {
+  color: black;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .footer-col-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+body .footer-col-wrapper .p-name {
+  display: none;
+}
+body .footer-col-wrapper .footer-col-1,
+body .footer-col-wrapper .footer-col-2,
+body .footer-col-wrapper .footer-col-3 {
+  margin: 0;
+}
+body .footer-col-wrapper .footer-col-1 ul,
+body .footer-col-wrapper .footer-col-2 ul,
+body .footer-col-wrapper .footer-col-3 ul {
+  list-style-type: none;
+  color: #FFFFFF !important;
+}
+body .formulaire {
+  max-width: 500px;
+  margin: 0 auto;
+  background: transparent;
+}
+body .champ {
+  position: relative;
+  margin-bottom: 25px;
+}
+body .input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background: #FFFFFF;
+}
+body .input:focus {
+  border-color: #bbdefb;
+  outline: none;
+}
+body .label {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  color: #999;
+  transition: 0.3s;
+  pointer-events: none;
+}
+body .input:focus + .label,
+body .input:not(:placeholder-shown) + .label {
+  top: -10px;
+  font-size: 12px;
+  color: black;
+  background: #bbdefb;
+  padding: 0 5px;
+  border-radius: 2px;
+}
+body textarea.input {
+  min-height: 100px;
+  resize: vertical;
+}
+body .bouton {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  background-color: #bbdefb;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 3rem;
+}
+body .bouton:hover {
+  background-color: #bbdefb;
 }
 
 /*# sourceMappingURL=style.css.map */

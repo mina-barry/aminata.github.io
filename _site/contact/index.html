@@ -43,23 +43,33 @@
   <div class="post-content">
     <link rel="stylesheet" href="/css/style.css" />
 
-<form action="https://formspree.io/f/abcdwxyz" method="POST">
-  <input type="text" name="nom" placeholder="Votre prenom" required="" />
-  <br /><br />
+<div class="formulaire">
+    <form action="https://formspree.io/f/abcdwxyz" method="POST">
+      
+      <div class="champ">
+        <input type="text" name="nom" class="input" placeholder=" " required="" />
+        <label class="label">Nom</label>
+      </div>
 
-  <input type="text" name="prenom" placeholder="Votre prenom" required="" />
-  <br /><br />
+      <div class="champ">
+        <input type="text" name="prenom" class="input" placeholder=" " required="" />
+        <label class="label">Prénom</label>
+      </div>
 
-  <input type="email" name="email" placeholder="Votre email" required="" />
-  <br /><br />
+      <div class="champ">
+        <input type="email" name="email" class="input" placeholder=" " required="" />
+        <label class="label">Email</label>
+      </div>
 
-  <textarea name="message" placeholder="Votre message" required=""></textarea>
-  <br /><br />
+      <div class="champ">
+        <textarea name="message" class="input" placeholder=" " required=""></textarea>
+        <label class="label">Message</label>
+      </div>
 
-  <button type="submit">Envoyer</button>
-</form>
-
-<hr />
+      <button type="submit" class="bouton">Envoyer</button>
+      
+    </form>
+  </div>
 
 <h4 id="si-vous-avez-des-questions-vous-pouvez-me-contacter-via">si vous avez des questions vous pouvez me contacter via:</h4>
 
@@ -71,7 +81,7 @@
     <p><a href="https://github.com/mina-barry">Mon github</a></p>
   </li>
   <li>
-    <p>💼 <a href="https://www.linkedin.com/in/">LinkedIn</a></p>
+    <p><a href="https://www.linkedin.com/in/">LinkedIn</a></p>
   </li>
 </ul>
 

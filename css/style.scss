@@ -1,82 +1,211 @@
----
----
+--- 
+--- 
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url("/image/arrier-plan.png");
+  background-image: url("https://cdn.svgator.com/images/2022/06/background-svg-image-pattern.svg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: black;
-  
+
+  .page-content {
+    margin-top: 5rem;
+  }
+
   .site-footer {
-    background-color: #333333; 
-    color: #FFFFFF; 
+    background-color: #5B3256;
+    color: #FFFFFF;
     padding: 20px 0;
     text-align: center;
   }
-  
+
+  .site-title,
+  .site-title:visited,
+  .site-nav .page-link {
+    color: white;
+  }
+
   .site-header {
-    background-color: bisque; 
-    color: #FFFFFF; 
-    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    background-color: #5B3256;
+    color: #FFFFFF;
+    padding: 10px 0;
     text-align: center;
+    z-index: 100;
+    border: 0;
   }
-  #vendeuse-polyvalente{
-    height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    box-shadow: 2px 4px 0 #fff3e0;
-    text-align: center;
-  }
-//   ul li {
-// padding: 20px;
-//   margin: 20px 0;
-//   border-radius: 8px;
-//   box-shadow: 0 2px 4px #0056b3;
-//   }
 
-#diplome{
+  #vendeuse-polyvalente {
     height: auto;
     border-radius: 10px;
     background-color: #bbdefb;
-    box-shadow: 2px 4px 0 #fff3e0;
+    // box-shadow: 20px 4px 0 #fff3e0;
     text-align: center;
   }
-#objectifs{
+
+  //   ul li {
+  // padding: 20px;
+  //   margin: 20px 0;
+  //   border-radius: 8px;
+  box-shadow: 0 20px 4px #0056b3;
+  //   }
+
+  #diplome {
     height: auto;
     border-radius: 10px;
     background-color: #bbdefb;
-    box-shadow: 2px 4px 0 #fff3e0;
+    // box-shadow: 20px 4px 0 #fff3e0;
     text-align: center;
   }
-  #qui-suis-je{
- height: auto;
+
+  #objectifs {
+    height: auto;
     border-radius: 10px;
     background-color: #bbdefb;
-    box-shadow: 2px 4px 0 #fff3e0;
+    // box-shadow: 20px 4px 0 #fff3e0;
+    text-align: center;
+  }
+
+  #qui-suis-je {
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    // box-shadow: 20px 4px 0 #fff3e0;
     text-align: center;
 
   }
-  #technologies-utilisées{
-     height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    box-shadow: 2px 4px 0 #fff3e0;
-    text-align: center;
-  }
-  #compétences-développées{
-      height: auto;
-    border-radius: 10px;
-    background-color: #bbdefb;
-    box-shadow: 2px 4px 0 #fff3e0;
-    text-align: center;
-  }
- }
- form{
+
+  #technologies-utilisées {
     height: auto;
     border-radius: 10px;
-    background-color:#333333;
-    box-shadow: 2px 4px 0 #fff3e0;
+    background-color: #bbdefb;
+    // box-shadow: 20px 4px 0 #fff3e0;
     text-align: center;
- }
+  }
+
+  #compétences-développées {
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    // box-shadow: 20px 4px 0 #fff3e0;
+    text-align: center;
+  }
+
+  #mes-centres-dintérêts {
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    // box-shadow: 20px 4px 0 #fff3e0;
+    text-align: center;
+  }
+
+  #langues {
+    height: auto;
+    border-radius: 10px;
+    background-color: #bbdefb;
+    // box-shadow: 20px 4px 0 #fff3e0;
+    text-align: center;
+  }
+
+  ul li {
+    color: black;
+    list-style-type: square;
+    font-size: 20px;
+  }
+
+  p {
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .footer-col-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .p-name {
+      display: none;
+    }
+
+    .footer-col-1,
+    .footer-col-2,
+    .footer-col-3 {
+      margin: 0;
+
+      ul {
+        list-style-type: none;
+        color: #FFFFFF !important;
+      }
+    }
+  }
+
+ .formulaire {
+      max-width: 500px;
+      margin: 0 auto;
+      background: transparent;
+    }
+
+    .champ {
+      position: relative;
+      margin-bottom: 25px;
+    }
+
+    .input {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      border: 2px solid #ccc;
+      border-radius: 5px;
+      background:#FFFFFF;
+    }
+
+    .input:focus {
+      border-color: #bbdefb;;
+      outline: none;
+    }
+
+    .label {
+      position: absolute;
+      left: 12px;
+      top: 12px;
+      color: #999;
+      transition: 0.3s;
+      pointer-events: none;
+    }
+
+    .input:focus + .label,
+    .input:not(:placeholder-shown) + .label {
+      top: -10px;
+      font-size: 12px;
+      color: black;
+      background: #bbdefb;
+      padding: 0 5px;
+      border-radius: 2px;
+    }
+
+    textarea.input {
+      min-height: 100px;
+      resize: vertical;
+    }
+
+    .bouton {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      background-color:  #bbdefb;;
+      color: black;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 3rem;
+    }
+
+    .bouton:hover {
+      background-color: #bbdefb;;
+    }
+}

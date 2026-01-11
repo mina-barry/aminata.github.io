@@ -13,7 +13,6 @@ en formation en **développement web**.
 Je découvre actuellement les bases du développement web, notamment le HTML, le CSS,le javascript,le php,
 et les principes de programmation. À travers ma formation, je cherche à améliorer
 mes compétences et à gagner de l’expérience grâce à des projets pratiques.
-
 Motivée et curieuse, je souhaite progresser pas à pas et construire un portfolio
 qui reflète mon évolution.
 ---
@@ -25,13 +24,14 @@ qui reflète mon évolution.
 - Travail en équipe
 - Organisation et polyvalence
 
-### 
 
 ### Diplome 
-- Bac 2023
-- Brevé 2019
-- Btech 24/03/2025 au 05/05/2025 
-- Simplons 24/02/2025 au 20/03/2025
+- 2024 B-TECH(5semaines)
+- 2024 Simplon(1mois)   
+- 2023 BAC GENERAL (niveau)
+ Lycée Billy Conakry
+- 2020 BEPC
+
 
 ### Objectifs
 
@@ -40,3 +40,12 @@ qui reflète mon évolution.
 - Continuer à apprendre et progresser  
 
 
+### Mes centres d'intérêts
+- J'aime  faire de la cuisine 
+- Regarder des matchs defootball et basket
+- Lecture et me documenter sur internet 
+- serie/film
+
+### Langues
+- Français
+- anglais A1
